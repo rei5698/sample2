@@ -1,0 +1,122 @@
+
+
+ body{
+    font-family: 'Noto Sans JP', sans-serif;
+ } 
+
+ li{
+     list-style: none;
+ }
+
+ .header{
+     background-color: #8d7f6e;
+     color:rgb(248, 248, 247);
+     height:90px;
+     border:2px solid  #444343;
+ }
+
+ .header-logo{
+     float: left;
+     font-size: 40px;
+     padding:20px 40px;
+     color: #444343;
+     font-weight: 900;
+ }
+
+ .header-list li{
+     float:left;
+     padding:22px 30px;
+     
+ }
+
+ .main{
+     padding: 100px 80px;
+     color: #444343;
+     background-color: rgb(253, 251, 242);
+ }
+
+ .copy-container h1{
+     font-size: 120px;
+ }
+
+ .copy-container h2{
+    font-size:60px;
+ }
+
+ .contents{
+    height: 500px;
+    margin-top: 100px;
+ }
+
+ .section-title{
+     color:#8d7f6e;
+     font-size: 52px;
+     border-bottom: 5px solid #8d7f6e;
+ }
+
+ .contents-item{
+     float: left;
+     margin-right: 50px;
+     height: 200px;
+     width:200px;
+ }
+
+ .contents-item p{
+     font-size: 48px;
+     margin-top: 3px;
+     padding-left:32px;
+     margin-left: 10px;
+     color:#8d7f6e
+ }
+
+ .contents-item a{
+    font-size: 48px;
+    padding-left:30px;
+    margin-left: 10px;
+    color:#8d7f6e
+ }
+
+ .contact-form{
+     padding-top: 100px;
+     font-size: 20px;
+ }
+
+ input,textarea{
+     width: 400px;
+     margin-top: 10px;
+     margin-bottom: 30px;
+     padding: 20px;
+     font-size: 20px;
+     border:2px solid #8d7f6e
+ }
+
+ .contact-submit{
+     background-color: rgb(233, 226, 197);
+     color:#8d7f6e;
+ }
+
+ .footer{
+     background-color: #8d7f6e;
+     color: rgb(245, 240, 235);
+     height: 120px;
+     padding:32px;
+     border:2px solid  #444343;
+ }
+
+ 
+
+ .footer-logo{
+     float:left;
+     font-size:52px;
+     color: #444343;
+     font-weight: bold;
+ }
+
+ .footer-list{
+     float:right;
+     
+ }
+
+ .float-list li{
+     padding-bottom: 20px;
+ }
